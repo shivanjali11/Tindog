@@ -1,0 +1,144 @@
+#title
+{
+  background-color:#ff4c68;
+  }
+  h1 {
+  font-family: 'Signika Negative', sans-serif;
+  color:white;
+  font-size:3.5rem;
+   }
+   .container-fluid
+   {
+     padding:5% 15% ;
+   }
+   .rotate_image{
+     width:60%;
+     transform:rotate(25deg)
+   }
+   h1,h2,h3
+   {
+     
+   }
+   .navbar-brand{
+     font-size: 2.5rem;
+
+   }
+  .navbar
+  {
+    padding-bottom: 4rem;
+  }
+  #navbarTogglerDemo02{
+    padding-left:18px;
+padding-right: 18px;
+  }
+  .download-button
+  {
+    margin:5% 3% 5% 0%;
+  }
+  .title-image{
+    width:60%;
+  }
+#features
+  {
+
+    font-size:1.5rem;
+    padding:7% 15%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+
+  }
+p{
+  color:grey;
+}
+  .fa-solid
+  {
+    color:#ef8172;
+    margin-bottom: 1rem;
+  }
+  .fa-solid:hover{
+    color:#ff4c68;
+  }
+  #testimonials
+  {
+    padding:7% 15%;
+  text-align: center;
+  background-color:#ff4c68;
+  color:#fff;
+  }
+  h2
+  {
+    font-family:"Montserrat-Bold";
+    font-size:3rem;
+    line-height: 1.5;
+  }
+  .testimonial-image
+  {
+    width:10%;
+    border-radius:100%;
+    margin:20px;
+  }
+  #press
+  {
+  background-color:#ff4c68;
+   text-align:center;
+   padding-bottom:3%;
+  }
+  .press-image
+  {
+    width:15%;
+    margin:10px;
+  }
+  .card
+  {
+
+    margin:3rem;
+  }
+.card-body
+{
+  color:red;
+}
+.text
+{
+  margin-left:3rem;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+@media (max-width:1020px){
+  #title{
+    text-align:center;
+  }
+  .title-image{
+    postion:static;
+    transform:rotate(0);
+  }
+}
+#cta{
+  background-color:#ff4c68;
+  text-align:center;
+  color:white;
+
+  padding:5% 15%;
+}
+.last
+{
+padding:50px;
+font-style:"Montserrat-Black";
+font-size: 3.5rem;
+line-height: 3.5rem;
+}
+#footer
+{
+  height:200px;
+  text-align: center;
+  padding:70px;
+
+}
+.icons
+{
+  align-items: center;
+  margin:20px 10px;
+}
